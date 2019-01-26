@@ -1,1 +1,1 @@
-tutorial: (Operating Systems: Three Easy Pieces)[http://pages.cs.wisc.edu/~remzi/OSTEP]
+tutorial: [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP)
